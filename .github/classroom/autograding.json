@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Test Integers",
+      "setup": "",
+      "run": "pytest -k test_function_int",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test Strings",
+      "setup": "",
+      "run": "pytest -k test_function_str",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
